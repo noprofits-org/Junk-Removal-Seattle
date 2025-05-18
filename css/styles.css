@@ -383,7 +383,7 @@ nav {
 
 /* Testimonials Section */
 .testimonials {
-    background-color: var(--dark-bg);
+    background-color: var(--dark-bg) !important;
     color: var(--light-text);
 }
 
