@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left hand -->
+  <path d="M50 150 Q60 120 80 100 Q90 80 100 80 Q110 80 120 100 L110 120 Q100 140 90 150 L70 150 Q60 150 50 150 Z" 
+        fill="#000000" stroke="#4A2C2A" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Left thumb -->
+  <path d="M100 80 Q110 60 120 60 Q130 60 130 70 Q130 80 120 80 Z" 
+        fill="#000000" stroke="#4A2C2A" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Right hand -->
+  <path d="M150 150 Q140 120 120 100 Q110 80 100 80 Q90 80 80 100 L90 120 Q100 140 110 150 L130 150 Q140 150 150 150 Z" 
+        fill="#000000" stroke="#4A2C2A" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Right thumb -->
+  <path d="M100 80 Q90 60 80 60 Q70 60 70 70 Q70 80 80 80 Z" 
+        fill="#000000" stroke="#4A2C2A" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Finger details (lines on left hand) -->
+  <path d="M85 110 Q90 120 95 130 M95 105 Q100 115 105 125" 
+        fill="none" stroke="#4A2C2A" stroke-width="4" stroke-linecap="round"/>
+  <!-- Finger details (lines on right hand) -->
+  <path d="M115 110 Q110 120 105 130 M105 105 Q100 115 95 125" 
+        fill="none" stroke="#4A2C2A" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="#2d7a2d">
+  <!-- Truck icon simplified for small size -->
+  <rect x="8" y="20" width="35" height="24" rx="3" fill="#2d7a2d"/>
+  <rect x="43" y="28" width="13" height="16" rx="2" fill="#2d7a2d"/>
+  
+  <!-- Wheels -->
+  <circle cx="18" cy="48" r="4" fill="#333333"/>
+  <circle cx="46" cy="48" r="4" fill="#333333"/>
+  
+  <!-- Recycling arrows small -->
+  <g transform="translate(22, 28) scale(0.8, 0.8)">
+    <path d="M8 0l-4 7h8z" fill="#3ca93c"/>
+    <path d="M0 12l7-4v8z" fill="#3ca93c"/>
+    <path d="M16 12l-7 4v-8z" fill="#3ca93c"/>
+  </g>
+</svg>

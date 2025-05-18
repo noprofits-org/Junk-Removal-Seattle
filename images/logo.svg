@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" fill="#2d7a2d">
+  <g transform="translate(10, 10)">
+    <!-- Truck icon -->
+    <path d="M50 30h-5V15c0-2.8-2.2-5-5-5H25v-5c0-2.8-2.2-5-5-5H5c-2.8 0-5 2.2-5 5v40c0 2.8 2.2 5 5 5h5.1c.5 5.5 5.2 10 10.9 10s10.4-4.5 10.9-10h3.2c.5 5.5 5.2 10 10.9 10s10.4-4.5 10.9-10H50c2.8 0 5-2.2 5-5v-5c0-5.5-2.5-10-5-10zM20 55c-2.8 0-5-2.2-5-5s2.2-5 5-5 5 2.2 5 5-2.2 5-5 5zm20 0c-2.8 0-5-2.2-5-5s2.2-5 5-5 5 2.2 5 5-2.2 5-5 5z"/>
+    
+    <!-- Recycling arrows -->
+    <g transform="translate(15, 20)">
+      <path d="M10 0l-5 8.7h10z" fill="#3ca93c"/>
+      <path d="M0 15l8.7-5v10z" fill="#3ca93c"/>
+      <path d="M20 15l-8.7 5v-10z" fill="#3ca93c"/>
+    </g>
+  </g>
+  
+  <!-- Text -->
+  <text x="70" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#2d7a2d">SEATTLE</text>
+  <text x="70" y="60" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#3ca93c">JUNK REMOVAL</text>
+</svg>

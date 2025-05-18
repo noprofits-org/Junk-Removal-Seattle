@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <style>
+    .icon-primary { fill: #2c6e93; }
+    .icon-secondary { fill: #4a8db7; }
+    .icon-accent { fill: #f39c12; }
+    .icon-outline { fill: none; stroke: #2c6e93; stroke-width: 2; }
+  </style>
+  <g>
+    <circle cx="30" cy="30" r="20" class="icon-outline"/>
+    <path d="M25,15 L45,35 L35,45 L15,25 Z" class="icon-outline"/>
+    <circle cx="20" cy="20" r="5" class="icon-secondary" opacity="0.6"/>
+    <circle cx="40" cy="30" r="5" class="icon-accent" opacity="0.6"/>
+    <circle cx="25" cy="40" r="5" class="icon-primary" opacity="0.6"/>
+    <line x1="5" y1="25" x2="15" y2="25" class="icon-outline"/>
+    <line x1="45" y1="25" x2="55" y2="25" class="icon-outline"/>
+    <line x1="25" y1="5" x2="25" y2="15" class="icon-outline"/>
+    <line x1="25" y1="45" x2="25" y2="55" class="icon-outline"/>
+  </g>
+</svg>

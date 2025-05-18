@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <style>
+    .icon-primary { fill: #2c6e93; }
+    .icon-outline { fill: none; stroke: #2c6e93; stroke-width: 2; }
+    .icon-text { font-family: monospace; font-size: 10px; fill: #2c6e93; }
+  </style>
+  <g>
+    <rect x="5" y="10" width="50" height="40" rx="2" class="icon-outline"/>
+    <line x1="15" y1="20" x2="25" y2="20" class="icon-outline"/>
+    <text x="10" y="20" class="icon-text">&gt;</text>
+    <line x1="15" y1="25" x2="35" y2="25" class="icon-outline"/>
+    <text x="10" y="25" class="icon-text">&gt;</text>
+    <line x1="15" y1="30" x2="40" y2="30" class="icon-outline"/>
+    <text x="10" y="30" class="icon-text">&gt;</text>
+    <line x1="15" y1="35" x2="30" y2="35" class="icon-outline"/>
+    <text x="10" y="35" class="icon-text">&gt;</text>
+    <line x1="15" y1="40" x2="45" y2="40" class="icon-outline"/>
+    <text x="10" y="40" class="icon-text">&gt;</text>
+    <circle cx="45" cy="20" r="3" class="icon-primary"/>
+  </g>
+</svg>
